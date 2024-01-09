@@ -1,10 +1,10 @@
 <<<<<<< HEAD
 hello World hello World 
-this file was changed after making emeregncy branch was made
+this file was changed after making emeregncy branch
 =======
 hello World hello World
 
 new changes after making branch - HELLO WORLD
 >>>>>>> helloworld
 
-i have edited nothing - by writing this message
+i have edited this file - by writing this message
